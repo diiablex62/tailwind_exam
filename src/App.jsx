@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Logement from "./components/logement";
+import Logement from "./components/Logement";
 import Avis from "./components/Avis";
 import Footer from "./components/Footer";
 
