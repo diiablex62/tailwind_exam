@@ -1,7 +1,7 @@
 ## 🏠 PROJET TAIWIND - EXERCICE
 # Airbed & Breakfast
 
-Aperçu disponible sur ce lien : [text](https://tailwind-exercice.netlify.app/)
+Aperçu disponible sur ce lien : [https://tailwind-exercice.netlify.app/]
 
 > Une application web moderne pour trouver et réserver des hébergements.
 
