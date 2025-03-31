@@ -5,15 +5,9 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-<<<<<<< HEAD
-    <div className='app-container'>
-      <Header />
-      <main className='main-content'>
-=======
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-grow">
->>>>>>> c09684b (modification demandees)
         <Logement />
         <Avis />
       </main>

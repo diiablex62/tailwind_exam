@@ -2,19 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-<<<<<<< HEAD
-.app-container {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh; 
-  }
-  
-  .main-content {
-    flex-grow: 1; 
-  }
-  
-=======
-a {
-  cursor: pointer;
-}
->>>>>>> c09684b (modification demandees)
