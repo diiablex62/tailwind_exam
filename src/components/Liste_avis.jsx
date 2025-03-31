@@ -18,7 +18,11 @@ export default function Liste_avis() {
   return (
     <div className='ml-6 mt-6'>
       <h1 className='text-2xl font-bold'>Avis</h1>
+<<<<<<< HEAD
       <div className='flex flex-col md:flex-row gap-6 mt-4 p-4 md:justify-start'>
+=======
+      <div className='flex flex-col md:flex-row gap-6 mt-4 p-4 md:justify-start cursor-pointer'>
+>>>>>>> c09684b (modification demandees)
         {reviews.map((review) => (
           <div
             key={review.id}
